@@ -1,4 +1,4 @@
-🔭 Computer Science Engineering Student<br>🌱 Deep Learning & Data Structures<br>
+🔭 Computer Science Engineering Student<br>📚 Deep Learning & Data Structures<br>
 
 
 ## 🌐 Socials:
